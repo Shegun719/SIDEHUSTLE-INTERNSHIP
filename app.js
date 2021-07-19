@@ -8,4 +8,4 @@ document.body.style.background=randomColor[Math.floor(Math.random()*randomColor.
 text.textContent=document.body.style.background;
 });
 
-document.write("SIDEHUSTLE TASK");
+
