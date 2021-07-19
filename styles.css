@@ -236,13 +236,17 @@ main {
 .site{
   color: pink;
   font-weight: bold;
-  margin-left: 60px;
-  padding-left: 50px;
-  position: relative; top:-150px;
+  position: relative; top:-200px;
 }
 .para{
   color: black;
-  margin-left: 60px;
-  padding-left: 62px;
-  position: relative; top:-150px;
+  position: relative; top:-200px;
+}
+
+.object{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
 }
